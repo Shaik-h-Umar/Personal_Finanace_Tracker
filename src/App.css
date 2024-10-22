@@ -1,0 +1,20 @@
+.wrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 90vh;
+}
+.charts-wrapper {
+    display: flex;            /* Use flexbox to align items horizontally */
+    justify-content: space-between; /* Adds space between charts */
+    align-items: flex-start;   /* Align items at the top */
+    margin: 15px;
+  }
+  
+  .charts-wrapper > 
+  div {
+    flex: 1;                  /* Ensure each div takes equal space */
+    padding: 0 20px;          /* Optional: Add space between the charts */
+  }
+  
