@@ -33,9 +33,8 @@ Demo Will be uploaded soon.....!
 - react: "18.2.0",
 - firebase: "10.0.0",
 - antd: "5.7.0",
-- moment: "2.29.4",
+- antd-Charts: "2.2.1"
 - papaparse: "5.4.1",
-- react-apexcharts: "1.4.1",
 - react-firebase-hooks: "5.1.1",
 - react-icons: "4.10.1",
 - react-router-dom: "6.14.1",
